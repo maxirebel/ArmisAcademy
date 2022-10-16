@@ -28,4 +28,6 @@ The structure of this project (Backend)
 - Sql Design : Entity Framework Code First
 - Google Authentication & Asp .Net Core Identity
 - Mvc Design
+
+
 Programmer : Alireza Abedi
